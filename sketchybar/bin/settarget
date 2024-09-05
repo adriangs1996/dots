@@ -1,0 +1,3 @@
+#! /usr/bin/env bash
+
+sketchybar --set target_ip "label=$1" click_script="printf $1 | pbcopy"
