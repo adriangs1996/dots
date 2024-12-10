@@ -17,4 +17,4 @@ isp_ip=(
 	click_script="printf $ip | pbcopy"
 )
 
-sketchybar --add item tun_ip left --set tun_ip "${isp_ip[@]}"
+# sketchybar --add item tun_ip left --set tun_ip "${isp_ip[@]}"

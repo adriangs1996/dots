@@ -18,5 +18,5 @@ local_ip_options=(
 	script="$PLUGIN_DIR/local_ip.sh"
 )
 
-sketchybar --add item tun_ip left --set tun_ip "${local_ip_options[@]}"
+# sketchybar --add item tun_ip left --set tun_ip "${local_ip_options[@]}"
  

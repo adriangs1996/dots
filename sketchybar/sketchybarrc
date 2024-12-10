@@ -7,16 +7,6 @@ PLUGIN_DIR="$CONFIG_DIR/plugins"
 EVENTS_DIR="$CONFIG_DIR/events"
 ITEMS_DIR="$CONFIG_DIR/items"
 
-
-##### Bar Appearance #####
-# Configuring the general appearance of the bar.
-# These are only some of the options available. For all options see:
-# https://felixkratz.github.io/SketchyBar/config/bar
-# If you are looking for other colors, see the color picker:
-# https://felixkratz.github.io/SketchyBar/config/tricks#color-picker
-
-
-
 barconf=(
   position=top 
   height=50

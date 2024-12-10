@@ -17,4 +17,4 @@ isp_ip=(
 	script="$PLUGIN_DIR/target.sh"
 )
 
-sketchybar --add item target_ip right --set target_ip "${isp_ip[@]}"
+# sketchybar --add item target_ip right --set target_ip "${isp_ip[@]}"

@@ -31,4 +31,4 @@ isp_ip=(
 )
 
 sketchybar --add item htbicon left --set htbicon "${htbicon[@]}"
-sketchybar --add item isp_ip left --set isp_ip "${isp_ip[@]}"
+# sketchybar --add item isp_ip left --set isp_ip "${isp_ip[@]}"
